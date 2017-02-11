@@ -5,8 +5,7 @@ This is needed too, if we want to do voice
 
 ##last password
 
-At login, the user sets their next password, which can not be any of the last 5
-
+At login, the user sets their later  password, which can not be any of the last however many. Password set is for two in future, so someone overhearing can't immediately use
 
 # Alternatively, just log in
 
