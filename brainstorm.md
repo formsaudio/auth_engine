@@ -13,6 +13,10 @@ have users do the DH process with common items with simplified rules and symbols
 ## Augmented hash
 tell people to remember a password, give them a new salt, and have them hash it in their mind and state the result
 
+## secret two factor
+have them pick six numbers as their password, and add each to the two factor key without a carry
+(e.g. secret is 591008 and 2fac code is 377533; user would say 868531)
+
 # Alternatively, just log in
 
 put it in text
