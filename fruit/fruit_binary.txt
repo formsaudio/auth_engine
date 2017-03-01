@@ -1,0 +1,20 @@
+Fruits are organized from smallest for smallest numbers to biggest for biggest numbers.
+Users should never have to convert, but this makes some operations easy to comprehend (especially ordering)
+
+Berry - 1
+Cherry - 2
+Lime - 4
+Pear - 8
+Apple -16
+Peach - 32
+Orange - 64
+Banana - 128
+Mango - 256
+Grapefruit - 512
+Pineapple - 1024
+Mellon - 2048
+Watermellon - 5096
+
+
+Needs at least two fruit
+Need to have a fruit in order command
