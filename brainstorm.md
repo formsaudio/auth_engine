@@ -1,9 +1,9 @@
-#2factor
+# 2factor
 This is needed too, if we want to do voice
 
-#Challenge
+# Challenge
 
-##last password
+## last password
 
 At login, the user sets their later  password, which can not be any of the last however many. Password set is for two in future, so someone overhearing can't immediately use
 
@@ -20,3 +20,7 @@ have them pick six numbers as their password, and add each to the two factor key
 # Alternatively, just log in
 
 put it in text
+
+# Patient Level
+
+a password for each patient (or other grouping) for reading, knowing that anyone who hears could also access
